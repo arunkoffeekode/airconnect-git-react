@@ -1,0 +1,26 @@
+@media (min-width: 576px){
+.modal-dialog {
+    max-width: 994px;
+    margin: 1.75rem auto;
+}}
+.modal-header {width: 100%;}
+.modal-title{font-size: 20px;font-weight: 500;text-align: left;color: #626262;}
+
+ .chkweb .start-table{width: 100%;white-space: nowrap;float: left;border: 1px solid #2C84BC;overflow-x: scroll;}
+ .chkweb .start-table table{position: relative;}
+ .chkweb .start-table table th{color: #626262;font-size: 16px;font-weight: 500;text-align: left;line-height: 26px;border-top: 0px;padding:15px;border-bottom: 1px solid #EFF0F5;background: #EFF0F5;}
+ .chkweb .start-table table td{color: #626262;font-size: 15px;font-weight: normal;text-align: left;line-height: 26px;border-top: 0px;padding:15px}
+.chkweb .start-table table td .departure{display: block;}
+ .chkweb .start-table table td .departure h5{font-size: 19px;font-weight: 600;text-align: left;color: #5EB6FE;text-transform: capitalize;margin-bottom: 5px;}
+ .chkweb .start-table table td .departure p{color: #626262;font-size: 13px;font-weight: normal;text-align: left;line-height: 22px;}
+ .chkweb .start-table table td .confirm{font-size: 15px;font-weight: 500;text-align: left;color: #25D366;text-transform:capitalize;}
+ .chkweb .start-table table td .passanger-icon{width: 30px;height: 30px;padding: 9px;text-align: center;background: #5eb6fe;border-radius: 7px;margin-right: 15px;}
+ .chkweb .start-table table td .user-details{display: flex;float: left;}
+ .chkweb{background: #FFFFFF;box-shadow: 0px 16.56px 11.04px rgba(1, 1, 1, 0.06), 0px 5.52px 5.52px rgba(1, 1, 1, 0.05), 0px 5.52px 4.416px rgba(1, 1, 1, 0.04), 0px 2.208px 2.76px rgba(1, 1, 1, 0.03), 0px 0.992806px 1.104px rgba(1, 1, 1, 0.02);padding: 20px;width: 100%;float: left;}
+ .chkweb .start-table table td .text-blue{font-size: 18px;color: #5EB6FE;font-weight: 500;text-align: left;}
+.rebok{width: 100%;}
+.rebok .form-group {padding-left: 15px !important;padding-right: 15px !important; box-shadow: none;}
+.rebok h2 {font-size: 20px;color: #626262;font-weight: 500;line-height: 30px;margin-bottom: 30px;text-align: center;}
+ .rebok .form-control {padding: 0.675rem 0.75rem;margin-bottom: 10px;background-color: transparent;color: #777777;font-size: 16px;border-radius: 11px;}
+.rebok input{ height: 50px !important;box-shadow: none;}
+.rebok .rebok-btn{width: 100%;background: #5EB6FE;box-shadow: 0px 16.56px 11.04px rgba(1, 1, 1, 0.06), 0px 5.52px 5.52px rgba(1, 1, 1, 0.05), 0px 5.52px 4.416px rgba(1, 1, 1, 0.04), 0px 2.208px 2.76px rgba(1, 1, 1, 0.03), 0px 0.992806px 1.104px rgba(1, 1, 1, 0.02);border-radius: 15px;text-transform: uppercase;font-size: 18px;font-weight: 500;color: #ffffff;text-align: center;outline: none;border: 1px solid #5EB6FE;padding: 10px 20px;margin-bottom: 20px;}

@@ -1,0 +1,267 @@
+@charset "utf-8";
+
+/* CSS Document */
+/* Extra large devices (large desktops, 1200px and up) */
+
+@media (min-width: 992px) and (max-width: 1200px) {  
+
+
+}
+
+/* width: 991px; */
+
+@media screen and (max-width: 61.938em) {
+    .my-book .line-book table td{padding: 1px 25px;}
+    .my-book .line-book .start-table{white-space: nowrap;overflow-x: scroll;}
+    .webcheck-box .chkweb .bag-all .bag-delt{border-right: none;}
+.footer .footer-links-1 ul li{ list-style-type:none; font-size:15px; color:#555555; display:inline-block; text-align:left; margin-bottom:15px; width:100%; float:none;}
+.footer .Subscribe {width: 100%;}
+.mobile-app .bx-details h2 {font-size: 28px;line-height: 37px;}
+.mobile-app .bx-details .app-img {display: block;}
+.mobile-app .bx-details .app-img .img-section {width: 100%;margin-right: 0px;margin-bottom: 20px;text-align: center;}
+.mobile-app .bx-details .app-img .img-barcode {width: 100%;}
+.mobile-app .bx-details .app-img .img-barcode img{width: 150px;margin: 0 auto;}
+.mobile-app .bx-details .app-img .img-barcode .scan .app {display: block;}
+.discover .discover-box {margin-bottom: 25px;}
+.visit .visit-places {margin-bottom:40px;width: 100%;}
+.visit .visit-places .cloud {width: 90px;position: absolute;float: right;bottom: -11px;z-index: 1;right: 6px;}
+.charter .sky-section {margin-bottom: 30px;}
+.charter .sky-cloud {bottom: 40px;}
+.home-page-second-section .owl-theme .owl-nav .owl-prev{left: -4px;}
+.home-page-second-section .owl-theme .owl-nav .owl-next {right: -4px;}
+.stellarnav li a {font-size: 15px!important;}
+header{background: #ffffff;border-bottom: 1px solid #5EB6FE;}
+.logo-brand{display: block;}
+header {padding: 15px 0px 15px 0px;}
+.topbar-area .logo{display: none;}
+.topbar-area .register ul li .login {box-shadow: none;background: #626262;color: #ffffff;}
+.topbar-area{background: #5EB6FE;}
+.topbar-area .register ul li .form-control {background: transparent;color: #ffffff;}
+.topbar-area .register ul li a {color: #ffffff;}
+.topbar-area .register {margin-top: 0px;}
+.float {width: 40px; height: 40px;bottom: 15%;right: 5%;background-color: #25d366;color: white;border-radius: 50px;text-align: center;font-size: 22px;z-index: 100;line-height: 35px;}
+.breadcrumb-section .breadcrumb-title {text-align: center;}
+.contact-us .contact-form {padding: 15px;}
+.contact-us .contact-form .sky-cloud {left: 0px;}
+.contact-title h2 {font-size: 25px;}
+.schedule .schedule-details {padding: 15px;}
+.schedule .schedule-details .sky-btn {width: 100%;}
+.schedule .schedule-details .sky-cloud {left: -2px;bottom: -18px;}
+.schedule .flight-section {height: 300px;}
+.schedule .schedule-details {margin-top: -115px;}
+.schedule p {font-size: 15px;}
+.our-team .mtr .team-box {margin-bottom: 90px;}
+.float1 {width: 100%;}
+.character-details .character-content h2 {font-size: 35px;}
+.specification .right-specification {border-left:none;width: 100%;}
+.specification .right-specification .text .display {display: block;}
+.specification .left-specification .text {padding: 20px;}
+.specification .left-specification {width: 100%;padding: 20px;}
+.character-details .character-small-box ul li {display: block;margin-bottom: 20px;}
+.character-details .character-small-box .round {width: 100%;}
+.character-section {height: 200px;}
+.nav-pills .nav-link, .booking_online .nav-tabs .nav-link {padding: 14px 18px;}
+.tirp-tab {width: 100%;}
+/* .booking_online {top: 40%;} */
+.booking_online {margin-top: -77px;}
+.booking_online .boook-details .sky-btn {width: 100%;}
+.booking_online .boook-details .sky-cloud {left: -11px;bottom: -31px;width: 65px;}
+.manage-booking h3 {font-size: 20px;}
+.manage-booking {padding: 0px;}
+/* .searches {margin-top:700px;} */
+.book-time .form-section {padding: 10px;}
+.book-time .form-section .quot .sky-btn {width: 100%;}
+.book-time .form-section .quot .sky-cloud {width: 70px;left: 4px;bottom: 25px;}
+.flyairconnect .about-flyairconnect {width: 100%;}
+.flyairconnect .about-flyairconnect .btn-section .sky-cloud {right: -3px;}
+.flyairconnect .flyairconnect-image {margin-top: 20px;}
+.private-section .owl-theme .owl-nav .owl-prev{left: -4px;}
+.private-section .owl-theme .owl-nav .owl-next {right: -4px;}
+.private-section .flight-details h1 {font-size: 25px;line-height: 38px;}
+/* .private-section .flight-details h1:after {top: 116px;left: 40%;} */
+.forms-section .checkout-form-centre {padding: 15px;}
+.forms-section .checkout-form-centre .checkout-login-step {padding: 15px 15px;}
+.forms-section .checkout-form-centre .checkout-login-step .login-btn .sky-btn {width: 100%;}
+/* .forms-section .checkout-form-centre .checkout-login-step .login-btn .sky-cloud {left: -6px;bottom: 0px;} */
+.single-title h1 {font-size: 30px;}
+.forms-section .or span::before {display: none;}
+.forms-section .or span::after{display: none;}
+.forms-section .section-complete ul li {width: 84px;margin-right: 4px;}
+.scheduler-section .table-section .table tbody td .icon {padding-right: 40px;}
+.booking-section .route .rupee {display: block;float: left;margin-bottom: 35px;}
+.booking-section .route .rupee .logo-icon {width: 100%;float: none;}
+.booking-section .route .rupee .green-button {width: 100%;float: left;text-align: left;margin-top: 20px;}
+.booking-section .route .rupee .logo-icon .title {font-size: 19px;}
+
+.booking-section .route .swap-route {display: block;}
+.booking-section .route .swap-route .right-route {margin-left: 0px;padding-bottom: 15px;width: 100%;}
+.booking-section .route .swap-route .duration {border-left: none;padding-left: 0px;width: 100%;float: left;}
+.booking-section .route .swap-route .left-route {width: 100%};
+.booking-section .route .swap-route .swap-icon{display: block;text-align: center;margin-top: 20px;margin-bottom: 20px;width: 100%;float: left;}
+.booking-section .route .swap-route .swap-icon {display: block;text-align: left;margin-top: 20px;margin-bottom: 20px;width: 100%;float: left;}
+.booking-section .route .social-icon {margin-top: 20px;}
+.booking-section .route .swap-route .display-line {width: 100%;display: block;border-bottom:2px solid #EFF0F5;float: left;}
+.booking-section .total-amount-inr .inr-center h3 {font-size: 20px;margin-top: 15px;}
+.booking-section .route .flight-depart {display: block;float: left;width: 100%;}
+.booking-section .route .flight-depart .display-depart {width: 100%;}
+.booking-section .route .flight-depart .display-depart12 {width: 100%;margin-top: 20px;padding-left: 0px;}
+.flight-status .flight-start .prn {float: left;}
+.flight-status .all-details .route-details {display: block;}
+.flight-status .all-details .route-details .frome {width: 100%;}
+.flight-status .all-details .route-details .direct-flight {width: 100%;}
+.schedule-details .table td{padding: 0.75rem;}
+.flight-status-top-section .return-ticket {margin-top: 20px;}
+.flight-status .flight-status-btn {float: none;}
+.booking-section .flight-review .route-details {display: block;margin-top: 30px;}
+.booking-section .flight-review .route-details .frome {width: 100%;}
+.booking-section .flight-review .route-details .direct-flight {width: 100%;margin: 0px;padding: 30px 0px 30px 0px;}
+.booking-section .flight-review .Baggage-Policy .policy-details .hand-baggage {width: 100%;}
+.booking-section .flight-review .Baggage-Policy .policy-details .policy-btn-section {display: block;}
+.booking-section .flight-review .Baggage-Policy .policy-details .policy-btn-section p {width: 100%;}
+.booking-section .flight-review .Baggage-Policy .policy-details .policy-btn-section .set-btn {width: 100%;margin-top: 20px;}
+.booking-section .flight-review .Baggage-Policy .policy-details .policy-btn-section .set-btn .policy-btn {width: 100%;}
+.booking-section .flight-review .passanger-contact .pasanger-btn .pasanger-cloud {left: 0px;}
+.booking-section .flight-review .passanger-contact .pasanger-btn .policy-pasanger {width: 100%;}
+.booking-section .pay-btn .pay-cloud {left: 0px;}
+.booking-section .flight-review .add .excess-bag .bag-details .bag-kg {margin-right: 8px;}
+.booking-section .flight-review .add .excess-bag .bag-details .decress {margin-right: 7px}
+.booking-section .flight-review .add .excess-bag .bag-details .digit {margin-right: 9px;}
+.booking-section .flight-review .add .excess-bag .bag-details .incress {margin-right:8px;}
+
+
+.booking-top .booking-top-left {display: block;border-bottom: 2px solid #ffffff;border-right: none;}
+.booking-top .booking-top-left .date-city {margin-bottom: 20px;}
+.booking-top .booking-top-left .book-img {margin-bottom: 20px;justify-content: left;}
+
+.drp-box {display: block;}
+.drp-box .left-drp {width: 100%;margin-bottom: 10px;}
+.drp-box .right-drp {float: none;width: 100%;}
+.drp-box .box-logo img {width: 40px;height: 40px;}
+.booking-section .flight-review .seat .seat-book {text-align: left;}
+.booking-section .flight-review .seat .seat-book ul li {margin-right: 25px;margin-bottom: 15px;}
+.private-box .private-char-box .characher-form-section .quot .sky-btn {width: 100%;}
+.private-box .private-char-box .characher-form-section .quot .sky-cloud {width: 66px;left: -6px;bottom: 18px;}
+.private-box {margin-top: -55px;}
+
+.manage-booking1 .conformation .left-confirm h1 {font-size: 16px;line-height: 25px;}
+.manage-booking1 .conformation .left-confirm h1 span{font-size: 16px;line-height: 25px;}
+.manage-booking1 .confiurmed-table .table-scrool{overflow-x: scroll; white-space: nowrap;width: 100%;float: left;}
+.manage-booking1 .confiurmed-table .booking-top-left1 {display: block;border-bottom: 2px solid #ffffff;border-right: none;}
+.manage-booking1 .confiurmed-table .booking-top-left1 .date-city {margin-bottom: 20px;}
+.manage-booking1 .confiurmed-table .booking-top-left1 .book-img {margin-bottom: 20px;justify-content: left;}
+.profile-pass .post-data .sky-cancel {top:20px;left: 0px;}
+
+.upcoming .upcoming-box .import .pravashi {display: inline-block}
+.upcoming .upcoming-box .import .pravashi .pravashi-info1 .pravashi-location {text-align: left;}
+.upcoming .upcoming-box .import .pravashi .pravashi-info1 .departure {text-align: left;}
+.upcoming .upcoming-box .import .all-status .status-icon .rupee {display: inline-block}
+.upcoming .upcoming-box .import .all-status .status-icon .rupee .logo-icon {width: 100%;}
+.upcoming .upcoming-box .import .all-status .status-icon .rupee .green-button {float: left;}
+.upcoming .upcomming-btn-section .Subscribe {width: 100%;}
+.webcheck-box .flight-status-btn1 .sky-cloud-flight1 {right: 23px;}
+.webcheck-box .flight-status-btn1 {width: 100%;margin-right: 0px;}
+.webcheck-box .flight-status-btn1 .flight-btn1 {width: 100%;}
+.webcheck-box .chkweb {padding: 12px;}
+.webcheck .webcheck-header h1 {font-size: 21px;line-height: 31px;margin-bottom: 20px;}
+.webcheck-box .chkweb h2 {font-size: 18px;margin-bottom: 0px;line-height: 28px;}
+.wallet table thead {
+    border: none;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+}
+.wallet table tr {
+    display: block;
+    margin-bottom: 0.625em;
+    border: none;
+}
+.wallet table td {
+    border-bottom: 1px solid #ddd;
+    display: block;
+    font-size: 16px;
+    text-align: right;
+}
+.wallet table td .content-pane .rudra-info-box h4 {
+    margin-top: 40px;
+}
+.wallet table td {
+    border-bottom: 1px solid #ddd;
+    display: block;
+    font-size: 16px;
+    text-align: right;
+}
+.wallet table td::before {
+    content: attr(data-label);
+    float: left;
+    color: #626262;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+.wallet table td .content-pane {display: block;}
+}
+
+/* ipad-pro-media-query */
+@media only screen and (min-device-width: 1024px) and (max-device-width: 1366px) and (-webkit-min-device-pixel-ratio: 2)  and (orientation: portrait)  {
+    .visit .visit-places {width: 100%;}
+    /* .searches {margin-top: 308px;} */
+    /* .booking_online {top: 25%;} */
+    .booking_online{margin-top: -440px;}
+   
+}
+
+/* nest-hub-media-query */
+@media screen and (min-width:1024px) and (-webkit-min-device-pixel-ratio:0){
+    .visit .visit-places {width: 100%;}
+    /* .booking_online {margin-top: -447px;} */
+  
+    /* .searches {margin-top:288px;} */
+}
+/*============	Media 768Px Start ============ */
+
+@media (min-width: 768px) and (max-width: 991px) {
+    /* .searches {margin-top: 464px;} */
+    .booking-top .booking-top-left {display: flex;}
+    .booking_online {margin-top: -227px;}
+}
+
+/* Medium devices (tablets, 768px and up) The navbar toggle appears at this breakpoint */
+
+@media (min-width: 320px) and (max-width: 768px) {
+
+
+   
+}
+
+@media (min-width: 768px) {
+
+
+
+}
+
+
+
+/*============ Media 300Px Star ============ */
+
+@media (max-width: 480px) {
+    .webcheck .webcheck-header .print-conf{margin-top: 15px;width: 100%;}
+    .boardingpass .boardingpass-box .check-route12 {display: block;}
+    .boardingpass .boardingpass-box .check-route12 .black-icon{margin: 10px 0px 10px 0px;}
+    .webcheck-box .chkweb .check-route {display: block;}
+    .webcheck-box .chkweb .check-route .black-icon {margin: 10px 0px 10px 0px;}
+    .webcheck {padding: 15px;}
+    .webcheck .webcheck-header .Subscribe {width: 100%;}
+    .webcheck .webcheck-header .Subscribe .form-control {height: calc(1.5em + 0.75rem + 2px);}
+    .webcheck .webcheck-header .Subscribe .input-group-text {padding: 5px 10px;font-size: 15px;}
+    .my-book .book-btn ul li {margin-right: 10px;}
+    .my-book .book-btn ul li .btn-bk {padding: 10px 18px;font-size: 16px;}
+}
+
+/*============ Media 320Px Start ============ */
+
+@media (max-width: 320px) {
+
+}

@@ -1,0 +1,20 @@
+.modal-body .form-group {padding-left: 15px !important;padding-right: 15px !important;box-shadow: none;}
+.modal-body label {font-size: 15px;color: #626262;font-weight: normal;text-transform: capitalize;}
+.modal-body label p {margin: 0px;font-size: 12px;font-weight: normal;color: #626262;display: inline;width: auto;text-transform: capitalize;}
+.modal-body .form-control {padding: 0.675rem 0.75rem;margin-bottom: 10px;background-color: transparent;color: #777777;font-size: 16px;border-radius: 11px;}
+.modal-body input,.modal-body select{height: 50px;box-shadow: none;}
+.modal-body label span {color: #ff0000;}
+.modal-body{width: 100%;}
+@media (min-width: 576px){
+.modal-dialog {
+    max-width: 800px;
+    margin: 1.75rem auto;
+    z-index: 1;
+}}
+.modal-header{width: 100%;}
+.modal-header .modal-title{font-size: 22px;font-weight: 600;text-align: left;margin-bottom: 15px;color: #626262;}
+.modal-header p{font-size: 15px;font-weight: normal;text-align:left;color: #626262;line-height: 24px;width: 100%;}
+.modal-body .flight-btn{background: #5EB6FE;box-shadow: 0px 16.56px 11.04px rgba(1, 1, 1, 0.06), 0px 5.52px 5.52px rgba(1, 1, 1, 0.05), 0px 5.52px 4.416px rgba(1, 1, 1, 0.04), 0px 2.208px 2.76px rgba(1, 1, 1, 0.03), 0px 0.992806px 1.104px rgba(1, 1, 1, 0.02);border-radius: 15px;color: #ffffff;text-align: center;text-transform: uppercase;font-size: 18px;font-weight: 500;outline: none;border: 1px solid #5EB6FE;padding: 10px 20px;width: 100%;}
+.modal-body .govt{background: #5EB6FE;width: 100%;padding: 5px;margin-bottom: 20px;}
+.modal-body .govt p{font-size: 15px;font-weight: normal;text-align: center;text-transform: capitalize;line-height: 23px;color: #ffffff;}
+.modal-body .psnger{font-size: 16px;font-weight: 500;text-align: left;color: #626262;line-height: 26px;margin-bottom: 10px;}
